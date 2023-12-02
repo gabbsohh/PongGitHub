@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/orteg/Downloads/LSC FALL 23/GAME 2303 - AI PROGRAMMING/Unreal/Pong_GOrtega/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/orteg/Downloads/LSC FALL 23/GAME 2303 - AI PROGRAMMING/Unreal/Pong_GOrtega/Content/BP_GameMode.uasset",
+				"C:/Users/orteg/Downloads/LSC FALL 23/GAME 2303 - AI PROGRAMMING/Unreal/Pong_GOrtega/Content/PongLevel01.umap",
+				"C:/Users/orteg/Downloads/LSC FALL 23/GAME 2303 - AI PROGRAMMING/Unreal/Pong_GOrtega/Content/BP_Player.uasset",
+				"C:/Users/orteg/Downloads/LSC FALL 23/GAME 2303 - AI PROGRAMMING/Unreal/Pong_GOrtega/Content/BP_Bal.uasset",
+				"C:/Users/orteg/Downloads/LSC FALL 23/GAME 2303 - AI PROGRAMMING/Unreal/Pong_GOrtega/Content/BP_Ball.uasset",
+				"C:/Users/orteg/Downloads/LSC FALL 23/GAME 2303 - AI PROGRAMMING/Unreal/Pong_GOrtega/Content/PM_Bouncy.uasset",
+				"C:/Users/orteg/Downloads/LSC FALL 23/GAME 2303 - AI PROGRAMMING/Unreal/Pong_GOrtega/Content/BP_Padddle.uasset",
+				"C:/Users/orteg/Downloads/LSC FALL 23/GAME 2303 - AI PROGRAMMING/Unreal/Pong_GOrtega/Content/BP_PlayerPaddle.uasset",
+				"C:/Users/orteg/Downloads/LSC FALL 23/GAME 2303 - AI PROGRAMMING/Unreal/Pong_GOrtega/Content/StarterContent/Props/Materials/M_Chair.uasset",
+				"C:/Users/orteg/Downloads/LSC FALL 23/GAME 2303 - AI PROGRAMMING/Unreal/Pong_GOrtega/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+			]
+		}
+	]
+}
