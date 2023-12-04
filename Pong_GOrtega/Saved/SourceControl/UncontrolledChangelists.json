@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/orteg/Downloads/LSC FALL 23/GAME 2303 - AI PROGRAMMING/PongGitHub/Pong_GOrtega/Content/BP_PlayerPaddle.uasset",
+				"C:/Users/orteg/Downloads/LSC FALL 23/GAME 2303 - AI PROGRAMMING/PongGitHub/Pong_GOrtega/Content/PongLevel01.umap",
+				"C:/Users/orteg/Downloads/LSC FALL 23/GAME 2303 - AI PROGRAMMING/PongGitHub/Pong_GOrtega/Content/BP_BallSpawner.uasset",
+				"C:/Users/orteg/Downloads/LSC FALL 23/GAME 2303 - AI PROGRAMMING/PongGitHub/Pong_GOrtega/Content/BP_Ball.uasset",
+				"C:/Users/orteg/Downloads/LSC FALL 23/GAME 2303 - AI PROGRAMMING/PongGitHub/Pong_GOrtega/Content/BP_EnemyPaddle.uasset",
 				"C:/Users/orteg/Downloads/LSC FALL 23/GAME 2303 - AI PROGRAMMING/Unreal/Pong_GOrtega/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/Users/orteg/Downloads/LSC FALL 23/GAME 2303 - AI PROGRAMMING/Unreal/Pong_GOrtega/Content/BP_GameMode.uasset",
 				"C:/Users/orteg/Downloads/LSC FALL 23/GAME 2303 - AI PROGRAMMING/Unreal/Pong_GOrtega/Content/PongLevel01.umap",
